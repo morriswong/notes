@@ -19,6 +19,8 @@ layout:
 
 I find myself keep coming back to using Cursor for coding, I think think of these 10 reason why that is the case and why I am bullish in general for cursor.
 
+***
+
 1. **Early mover advantage:** Now most MCP would have a Cursor upfront, free marketing!
 2. **IDE form factor sticks:** Terminal is great, but most people use IDE
 3. **A "Swiss" spot for models:** Guess what, they now make their own models as well
