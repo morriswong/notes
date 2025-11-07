@@ -30,4 +30,5 @@ I find myself keep coming back to using Cursor for coding, I think think of thes
 7. **Less vendor lock in:** All the .cursorrules are just markdown files in the filesystem
 8. **Negotiate a cheaper inference price for us:** It can be the groupon for model inference
 9. **Professional use from big companies:** The fact that professional people uses it says it all
-10. **OpenAI/Nivida got their back: As** part of the circular bubble, they would get saved(?)
+10. **OpenAI/Nivida got their back:** As part of the circular bubble, they would get saved (?)
+
