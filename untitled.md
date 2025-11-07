@@ -1,5 +1,4 @@
 ---
-description: My user manual for things in tech and life
 layout:
   width: default
   title:
@@ -7,14 +6,15 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
     visible: true
-  metadata:
+  outline:
+    visible: true
+  pagination:
     visible: false
+  metadata:
+    visible: true
 ---
 
-# Hi!
+# Untitled
 
+Hi there
