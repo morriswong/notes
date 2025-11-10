@@ -1,5 +1,4 @@
 ---
-description: Why cursor?
 layout:
   width: default
   title:
@@ -42,6 +41,7 @@ Now that we have this premise in mind, here are some of the popular tools out th
 * Terminal Agents: Claude Code/ Codex
 * IDE variants: Cursor/Windsurf/Github Copilot
 * Web based: Loveable/Bolt.new/Replit
+* General consumer apps: ChatGPT, Claude, Gemini
 
 I used all of them, but I find myself keep coming back to using Cursor for coding, I think think of these 10 reason why that is the case and why I am bullish in general for cursor.
 
