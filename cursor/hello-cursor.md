@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# Hello Cursor
+# IDE is here to stay
 
 I find myself keep coming back to using Cursor for coding, I think think of these 10 reason why that is the case and why I am bullish in general for cursor.
 

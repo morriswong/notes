@@ -24,4 +24,10 @@ A place to challenge myself to keep writing.
 
 Currently writing&#x20;
 
-* 30 days to master Cursor
+* 30 days of Cursor
+
+
+
+Previously written
+
+* 30 days of LLMs
