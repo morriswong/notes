@@ -18,3 +18,10 @@ layout:
 
 # Hi!
 
+A place to challenge myself to keep writing.
+
+
+
+Currently writing&#x20;
+
+* 30 days to master Cursor
