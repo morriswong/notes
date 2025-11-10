@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+---
+
 # Hello Cursor
 
 I find myself keep coming back to using Cursor for coding, I think think of these 10 reason why that is the case and why I am bullish in general for cursor.
