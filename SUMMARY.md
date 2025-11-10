@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Hello Cursor](README.md)
+* [Hi!](README.md)
+
+## Cursor
+
+* [Hello Cursor](cursor/hello-cursor.md)
