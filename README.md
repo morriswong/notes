@@ -21,3 +21,5 @@ layout:
 Currently writing
 
 * [30 days of Cursor](30-days-of/30-days-of-cursor/)
+
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>30 days of Cursor</td><td><a href="30-days-of/30-days-of-cursor/">30-days-of-cursor</a></td><td><a href="https://images.unsplash.com/photo-1746286720965-cccf57e56c68?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxDdXJzb3IlMjBBSXxlbnwwfHx8fDE3NjI3OTIxMzd8MA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1746286720965-cccf57e56c68?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxDdXJzb3IlMjBBSXxlbnwwfHx8fDE3NjI3OTIxMzd8MA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr></tbody></table>
