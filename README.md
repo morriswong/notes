@@ -1,5 +1,5 @@
 ---
-description: My user manual for things in tech and life
+description: A place to challenge myself to keep writing.
 layout:
   width: default
   title:
@@ -18,16 +18,6 @@ layout:
 
 # Hi!
 
-A place to challenge myself to keep writing.
+Currently writing
 
-
-
-Currently writing&#x20;
-
-* 30 days of Cursor
-
-
-
-Previously written
-
-* 30 days of LLMs
+* [30 days of Cursor](30-days-of/30-days-of-cursor/)
