@@ -4,6 +4,5 @@
 
 ## Cursor
 
-* [Hello Cursor](cursor/hello-cursor/README.md)
-  * [IDE is here to stay](cursor/hello-cursor.md)
-  * [That's a great "IDE"a](cursor/thats-a-great-ide-a.md)
+* [30 days of Cursor](cursor/30-days-of-cursor/README.md)
+  * [Day 0: IDE is here to stay](cursor/30-days-of-cursor/day-0-ide-is-here-to-stay.md)
