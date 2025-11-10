@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# Writing about Cursor
+# Why Cursor?
 
 <figure><img src="https://i.imgflip.com/abpbmq.jpg" alt=""><figcaption></figcaption></figure>
 
