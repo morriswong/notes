@@ -2,7 +2,7 @@
 
 * [Hi!](README.md)
 
-## cursor
+## Opinionated guide to Cursor
 
-* [Why Cursor?](cursor/30-days-of-cursor/README.md)
-  * [Cursor 101: Mode, models, context](cursor/30-days-of-cursor/day-0-ide-is-here-to-stay.md)
+* [Why Cursor?](opinionated-guide-to-cursor/30-days-of-cursor.md)
+* [Cursor 101: Mode, models, context](opinionated-guide-to-cursor/day-0-ide-is-here-to-stay.md)
