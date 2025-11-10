@@ -32,3 +32,6 @@ I find myself keep coming back to using Cursor for coding, I think think of thes
 9. **Professional use from big companies:** The fact that professional people uses it says it all
 10. **OpenAI/Nivida got their back:** As part of the circular bubble, they would get saved (?)
 
+***
+
+But that's also true for Windsurf/Github Copilot/ Zed/ Kiro? That's true, and that's why I think the IDE is the right form factor for coding agents, just like how we use IDE.
