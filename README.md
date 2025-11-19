@@ -18,5 +18,5 @@ layout:
 
 # Hi!
 
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>An opinionated guide to Cursor</td><td><a href="cursor/30-days-of-cursor/">30-days-of-cursor</a></td><td><a href=".gitbook/assets/CURSOR-LOGO.jpg">CURSOR-LOGO.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>An opinionated guide to Claude</td><td><a href=".gitbook/assets/062fb15ea8d9570a4456391f2acc2b502e1b451e-1600x1600.png">062fb15ea8d9570a4456391f2acc2b502e1b451e-1600x1600.png</a></td></tr></tbody></table>
 
